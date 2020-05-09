@@ -1,19 +1,21 @@
-# Hugo Theme: Console
+# Hugo Theme: Console ++
 
 A minimal, responsive and light theme for Hugo inspired by Linux console. 
 
-![Console](https://github.com/mrmierzejewski/hugo-theme-console/blob/master/images/preview.png?raw=true)
+![Console](https://github.com/berbiche/hugo-theme-console/blob/master/images/preview.png?raw=true)
 
 ## Live demo
 
-https://mrmierzejewski.com
+<https://mrmierzejewski.com>
 
 ## Installation
 
-    $ mkdir themes
-    $ cd themes
-    $ git submodule add https://github.com/mrmierzejewski/hugo-theme-console.git hugo-theme-console
-    
+    ``` sh
+    mkdir themes
+    cd themes
+    git submodule add https://github.com/berbiche/hugo-theme-console.git hugo-theme-console
+    ```
+
 See the [Hugo documentation](https://gohugo.io/themes/installing/) for more information.
 
 ## Configuration
@@ -21,7 +23,7 @@ See the [Hugo documentation](https://gohugo.io/themes/installing/) for more info
 Set theme parameter in your config file:
 
 ```
-theme = "hugo-theme-console"
+theme = "hugo-theme-console++"
 ```
 
 ## Example Site
@@ -35,5 +37,6 @@ makefile hugo-server
 ## License
 
 Copyright © 2020 [Marcin Mierzejewski](https://mrmierzejewski.com/)
+Copyright © 2020 [Nicolas Berbiche](https://normie.dev)
 
 The theme is released under the MIT License. Check the [original theme license](https://github.com/panr/hugo-theme-terminal/blob/master/LICENSE.md) for additional licensing information.
