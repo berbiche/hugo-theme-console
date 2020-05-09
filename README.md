@@ -10,11 +10,11 @@ A minimal, responsive and light theme for Hugo inspired by Linux console.
 
 ## Installation
 
-    ``` sh
-    mkdir themes
-    cd themes
-    git submodule add https://github.com/berbiche/hugo-theme-console.git hugo-theme-console
-    ```
+```sh
+mkdir themes
+cd themes
+git submodule add https://github.com/berbiche/hugo-theme-console.git hugo-theme-console
+```
 
 See the [Hugo documentation](https://gohugo.io/themes/installing/) for more information.
 
@@ -36,7 +36,7 @@ makefile hugo-server
 
 ## License
 
-Copyright © 2020 [Marcin Mierzejewski](https://mrmierzejewski.com/)
+Copyright © 2020 [Marcin Mierzejewski](https://mrmierzejewski.com/)  
 Copyright © 2020 [Nicolas Berbiche](https://normie.dev)
 
 The theme is released under the MIT License. Check the [original theme license](https://github.com/panr/hugo-theme-terminal/blob/master/LICENSE.md) for additional licensing information.
